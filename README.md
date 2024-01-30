@@ -36,3 +36,7 @@ Modules required are:
 2. pip install flask 
 
 run app.py 
+
+
+https://github.com/TejalBhole/Text_extractor_and_player_in_flask/assets/149650662/7443f049-9c59-4259-b5f1-f25ce279f37d
+
